@@ -1,4 +1,10 @@
 
-public class Composite {
+public class Composite extends Component{
+
+	public void operation() 
+	{
+		
+		
+	}
 
 }

@@ -1,4 +1,6 @@
 
-public class Component {
+abstract class Component {
+	
+	abstract void operation();
 
 }
